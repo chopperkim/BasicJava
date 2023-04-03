@@ -1,4 +1,4 @@
-package chapter08.exercise.advanced;
+package chapter07.exercise.advanced;
 
 public class Customer {
 	private String firstName;

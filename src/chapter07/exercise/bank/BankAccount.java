@@ -1,7 +1,7 @@
-package chapter08.exercise.advanced;
+package chapter07.exercise.bank;
 
 public class BankAccount {
-	protected int balance;
+	private int balance;
 
 	public BankAccount(int balance) {
 		this.balance = balance;
@@ -41,9 +41,5 @@ public class BankAccount {
 		withdraw(amount); // balance -= amount;
 		otherAccount.deposit(amount); // otherAccount.balance += amount;
 		return true;
-	}
-	@Override
-	public String toString() {
-		return String.format("%,d", balance);
 	}
 }

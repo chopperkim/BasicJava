@@ -1,4 +1,4 @@
-package chapter08.exercise.bank;
+package chapter07.exercise.bank;
 public class BankTest {
     public static void main(String[] args) {
         Bank bank = new Bank();

@@ -1,4 +1,4 @@
-package chapter08.exercise;
+package chapter07.exercise;
 
 public class Rectangle extends Shape {
 	private double width;

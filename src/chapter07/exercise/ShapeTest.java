@@ -1,4 +1,4 @@
-package chapter08.exercise;
+package chapter07.exercise;
 public class ShapeTest {
 	public static void main(String[] args) {
 		Shape[] shapes = new Shape[3];

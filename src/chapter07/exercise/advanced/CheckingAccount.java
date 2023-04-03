@@ -1,4 +1,4 @@
-package chapter08.exercise.advanced;
+package chapter07.exercise.advanced;
 
 public class CheckingAccount extends BankAccount {
 	private SavingsAccount protectedBy; // 연결된 저축 계좌(SavingsAccount)

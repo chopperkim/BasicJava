@@ -1,4 +1,4 @@
-package chapter08.exercise.bank;
+package chapter07.exercise.bank;
 
 public class Bank {
 	private Customer[] customers;

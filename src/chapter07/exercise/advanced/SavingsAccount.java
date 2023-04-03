@@ -1,4 +1,4 @@
-package chapter08.exercise.advanced;
+package chapter07.exercise.advanced;
 
 public class SavingsAccount extends BankAccount {
 	private double interestRate; // 이자율(여기서는 월이율)
